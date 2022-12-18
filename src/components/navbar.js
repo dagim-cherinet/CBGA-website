@@ -52,14 +52,14 @@ const Navbar = () => {
                 E-Learning
               </Link>
             </li>
-
+            {/* 
             <li>
               <button className="border-none bg-transparent text-black mr-4">
                 Sign in
               </button>
-            </li>
+            </li> */}
             <li>
-              <button className="px-6 py-2">Sign up</button>
+              <button className="px-6 py-2">Donate</button>
             </li>
           </ul>
         </div>
